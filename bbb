@@ -1,0 +1,6 @@
+Hi
+This is the python file 
+a
+b
+c= a+b
+print (c)
